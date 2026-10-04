@@ -8,8 +8,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rohit-the-webdev&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=rohit-the-webdev&show_icons=true&include_all_commits=true&theme=dark_github)<br/>
 ![](https://streak-stats.demolab.com/?user=rohit-the-webdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohit-the-webdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github)](https://wakatime.com/@alan)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=rohit-the-webdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
